@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimsyyap
-- 👀 I’m interested in outdoors, camping, bushcraft
+- 👀 I’m interested in tennis
 - 🌱 golang developer, cloud security engineer
 - 💞️ I’m looking to collaborate on ...anything to do with tennis
 - 📫 How to reach me linkedin -> dont
