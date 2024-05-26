@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jimsyyap
 - 👀 I’m interested in outdoors, camping, bushcraft
-- 🌱 I’m currently learning php & laravel
-- 💞️ I’m looking to collaborate on ...?
-- 📫 How to reach me linkedin
+- 🌱 golang developer, cloud security engineer
+- 💞️ I’m looking to collaborate on ...anything to do with tennis
+- 📫 How to reach me linkedin -> dont
 
 <!---
 jimsyyap/jimsyyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
